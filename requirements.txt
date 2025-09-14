@@ -1,0 +1,12 @@
+# OpenTelemetry Core Components
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+
+# OpenTelemetry Instrumentation
+opentelemetry-instrumentation>=0.40b0
+
+# OpenTelemetry Exporters
+opentelemetry-exporter-otlp>=1.20.0
+
+# Additional utilities for the demo (optional)
+requests>=2.28.0
